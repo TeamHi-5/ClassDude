@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ClassDude</string>
+    <string name="loginButton">Login</string>
+    <string name="loginUsernameHint">Username</string>
+    <string name="loginPassowrdHint">Password</string>
+    <string name="loginReferSignIn">Create a new account</string>
+    <string name="signUpNameHint">Name</string>
+    <string name="signUpEmailHint">Email Address</string>
+    <string name="signUpPasswordHint">Password</string>
+    <string name="signUpUsernameHint">Username</string>
+    <string name="signupButton">Sign Up</string>
+    <string name="signUpReferLogin">I already have an account</string>
+
+</resources>
