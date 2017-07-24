@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "81175371540",
+    "firebase_url": "https://class-dude.firebaseio.com",
+    "project_id": "class-dude",
+    "storage_bucket": "class-dude.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81175371540:android:7205b3e474a6b295",
+        "android_client_info": {
+          "package_name": "com.classdude"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81175371540-g8ln5fbapfti71kuac8037fhfolr1vjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.classdude",
+            "certificate_hash": "ea0980a6d96673b000d80012fbe558b3bd8097bc"
+          }
+        },
+        {
+          "client_id": "81175371540-f6u6psggq77rqg22ggqbbdthpiu8h0te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC0AZx0MRpKeOpDl5X7p-8fqc_Ag58fEk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81175371540-f6u6psggq77rqg22ggqbbdthpiu8h0te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
